@@ -1,1 +1,1 @@
-# RPS_tikinter
+# RPS_tkinter
